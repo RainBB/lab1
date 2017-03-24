@@ -1,0 +1,15 @@
+命令稿啟動於 2017年03月24日 (週五) 17時05分14秒
+]0;rb@rb-Swift-SF514-51: ~/桌面/c++_program[01;32mrb@rb-Swift-SF514-51[00m:[01;34m~/桌面/c++_program[00m$ whoami; pwd
+rb
+/home/rb/桌面/c++_program
+]0;rb@rb-Swift-SF514-51: ~/桌面/c++_program[01;32mrb@rb-Swift-SF514-51[00m:[01;34m~/桌面/c++_program[00m$ git config -l
+user.name=RainBB
+user.email=rainbluejr@gmail.com
+]0;rb@rb-Swift-SF514-51: ~/桌面/c++_program[01;32mrb@rb-Swift-SF514-51[00m:[01;34m~/桌面/c++_program[00m$ git clone https://github.com/RainBB/lab 1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+]0;rb@rb-Swift-SF514-51: ~/桌面/c++_program[01;32mrb@rb-Swift-SF514-51[00m:[01;34m~/桌面/c++_program[00m$ exit
+
+命令稿已於 2017年03月24日 (週五) 17時06分16秒
+ 完成
